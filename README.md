@@ -1,12 +1,12 @@
-## About me
+# About me
 
 Hello there! My name is Juan and I have a lot of skills in cloud computing, like: AWS, Azure, Jenkins, Terraform, Python and even TensorFlow.
 
 I'm passionate about staying updated with the latest industry trends and continuously expanding skills in cloud computing.
 
-You can see my projects here https://github.com/alexsander-projects
+Here you will find all the projects I've built so far.
 
-### Contact
+## Contact
 
 [![Linkedin: Juan Alexsander](https://img.shields.io/badge/-JuanAlexsander-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juan-alexsander-2674b0228/)](https://www.linkedin.com/in/juan-alexsander-2674b0228/)
 
@@ -22,7 +22,7 @@ You can see my projects here https://github.com/alexsander-projects
 - Tensorflow
 
 
-### Tools I use:
+## Tools I use:
 
 <img align="left" alt="Pycharm" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Visual Studio" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" style="padding-right:10px;" />
@@ -40,13 +40,14 @@ You can see my projects here https://github.com/alexsander-projects
 <img align="left" alt="AWS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHubActions" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Windows" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Powershell" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Linux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"  style="padding-right:10px;" />
 
 ---
 
-### Languages:
+## Languages:
 
 <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style="padding-right:10px;" />
 <img align="left" alt="C#" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" style="padding-right:10px;" />
+
+
