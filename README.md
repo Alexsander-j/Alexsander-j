@@ -49,7 +49,20 @@ Here you will find all the projects I've built so far.
 
 <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style="padding-right:10px;" />
 <img align="left" alt="C#" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Rust" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-line.svg" style="padding-right:10px;" />
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+img {
+  background-color: #FFFFFF;
+}
+</style>
+</head>
+<body>
+<p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-line.svg" /></p>
+</body>
+</html>
 
 
 
