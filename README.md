@@ -1,50 +1,43 @@
-# Juan Alexsander
+# Welcome to My GitHub! 👋
 
-Hello there! My name is Juan, and I am skilled in various aspects of cloud computing, including:
+Hi there! I'm **Alexsander**, a dedicated developer with expertise in **Rust**, **Cloud Integrations**, and **DevOps Tools**. I enjoy crafting solutions that bridge innovative technologies with practical real-world applications. Explore my work below!
 
-- AWS
-- Azure
-- Jenkins
-- Terraform
-- Python
-- TensorFlow
+---
 
-I'm passionate about staying updated with the latest industry trends and continuously expanding my skills in cloud computing.
+## 🚀 Project Highlights
 
-Here you will find all the projects I've built so far.
+| Project                                                                                                     | Description                                                                                          | Technologies                 |
+|-------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|------------------------------|
+| ![Bitbucket-AWS](https://img.shields.io/badge/Bitbucket--AWS-Integration-orange?style=flat&logo=aws)       | **[bitbucket-aws-poetry-integration](https://github.com/alexsander-projects/bitbucket-aws-poetry-integration):** Integrating Bitbucket/GitHub with AWS CodeBuild to build Docker images following a version schema. | AWS, Docker, Bitbucket       |
+| ![Rust-Zip](https://img.shields.io/badge/Rust-Zip-blue?style=flat&logo=rust)                                | **[rust-zip](https://github.com/alexsander-projects/rust-zip):** File compression and decompression using Rust, showcasing efficiency and reliability. | Rust                         |
+| ![Azure-Blob](https://img.shields.io/badge/Azure-Blob-blue?style=flat&logo=microsoft-azure)                 | **[azblob-rust-uploader-GUI](https://github.com/alexsander-projects/azblob-rust-uploader-GUI):** A user-friendly GUI tool for managing Azure Blob Storage. | Rust, Azure                  |
+| ![SQL-App](https://img.shields.io/badge/SQL-App-green?style=flat&logo=sqlite)                              | **[sql-app-rust](https://github.com/alexsander-projects/sql-app-rust):** Query SQL databases in Azure and display results on a web page using Rust. | C#, SQL                      |
+| ![Jenkins-K8s](https://img.shields.io/badge/Jenkins-Kubernetes-brightgreen?style=flat&logo=jenkins)         | **[jenkins-kubernetes](https://github.com/alexsander-projects/jenkins-kubernetes):** Automating CI/CD workflows with Jenkins and Kubernetes. | Jenkins, Kubernetes          |
+| ![CI-Azure](https://img.shields.io/badge/CI-Azure-yellow?style=flat&logo=azure-devops)                     | **[CI-jenkins-azure](https://github.com/alexsander-projects/CI-jenkins-azure):** Continuous integration and deployment to Azure App Services with Jenkins. | Jenkins, Azure DevOps        |
+| ![Blob-Trigger](https://img.shields.io/badge/Azure-Blob--Trigger-blue?style=flat&logo=azure-functions)      | **[function-blob-trigger-project](https://github.com/alexsander-projects/function-blob-trigger-project):** Process uploaded files using Azure Functions with Blob triggers. | Azure Functions              |
+| ![ETL-AWS](https://img.shields.io/badge/ETL-AWS-red?style=flat&logo=amazon-aws)                            | **[s3-glue-athena-quicksight](https://github.com/alexsander-projects/s3-glue-athena-quicksight):** Efficient ETL using AWS Glue, S3, Athena, and QuickSight. | AWS Glue, Athena, QuickSight |
+| ![OCR](https://img.shields.io/badge/Azure-OCR-green?style=flat&logo=microsoft-azure)                       | **[azure-computer-vision-stpython-app](https://github.com/alexsander-projects/azure-computer-vision-stpython-app):** OCR processing using Azure's Computer Vision API, visualized with Streamlit. | Python, Azure                |
+| ![Docker-Agent](https://img.shields.io/badge/Jenkins-Docker-blue?style=flat&logo=docker)                   | **[jenkins-docker-agent](https://github.com/alexsander-projects/jenkins-docker-agent):** Deploying Docker containers as Jenkins build agents using Terraform. | Jenkins, Docker, Terraform   |
 
-## Contact
+---
 
-[![Linkedin: Juan Alexsander](https://img.shields.io/badge/-JuanAlexsander-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juan-alexsander-2674b0228/)](https://www.linkedin.com/in/juan-alexsander-2674b0228/)
+## 🔧 Skills
 
-## Skills
+- **Programming Languages:** Rust, Python, C#
+- **Cloud Platforms:** Azure, AWS
+- **Tools & Frameworks:** Docker, Jenkins, Kubernetes, Terraform, Streamlit, Apache Spark
 
-- Azure
-- AWS
-- DevOps
-- Jenkins
-- Docker
-- C#
-- Python
-- TensorFlow
+---
 
-## Tools I Use
+## 🌱 What I'm Working On
 
-```html
-<div style="background-color: #f0f0f0; padding: 10px; border-radius: 5px;">
-  <img align="left" alt="Pycharm" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" style="padding-right:10px;" />
-  <img align="left" alt="Visual Studio" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" style="padding-right:10px;" />
-  <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-  <!-- ... other icons ... -->
-  <br clear="all">
-</div>
-```
+- Leveraging **Rust** for high-performance, scalable applications.
+- Developing cloud-native solutions with **Azure** and **AWS**.
+- Simplifying CI/CD pipelines for faster deployments.
 
-## Languages
+---
 
-<div style="background-color: #f0f0f0; padding: 10px; border-radius: 5px;">
-  <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style="padding-right:10px;" />
-  <img align="left" alt="C#" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" style="padding-right:10px;" />
-  <img align="left" alt="Rust" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" style="padding-right:10px;" />
-  <br clear="all">
-</div>
+### 📫 Let's Connect!
+
+- **Email:** [alexsanderjuan13@gmail.com](mailto:alexsanderjuan13@gmail.com)
+- **LinkedIn:** [Alexsander Profile](https://www.linkedin.com/in/juan-alexsander-2674b0228/)
